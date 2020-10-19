@@ -44,5 +44,5 @@
 
 [MIT](http://opensource.org/licenses/MIT)
 
-Copyright (c) 2018-present, [nicejade](https://aboutme.lovejade.cn/?utm_source=github.com).
+Copyright (c) 2020-present, [WHITESHDS](https://whiteshds.ml/about).
 
